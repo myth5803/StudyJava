@@ -1,7 +1,7 @@
 # StudyJava
 자바기초
 
-* 기본자료형(primitive data type)
+## 기본자료형(primitive data type)
 
 자료형   |데이터    | 메모리 크기 
 --------|----------|-------
