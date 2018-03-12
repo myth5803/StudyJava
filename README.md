@@ -1,5 +1,5 @@
 # StudyJava
-자바기초
+자바기초정리
 
 ### 기본자료형(primitive data type)
 
