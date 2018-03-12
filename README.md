@@ -13,3 +13,5 @@ int     | 정수     | 4바이트
 long    | 정수     | 8바이트
 float   | 실수     | 4바이트
 double  | 실수     | 8바이트
+
+## 상수(literal)
